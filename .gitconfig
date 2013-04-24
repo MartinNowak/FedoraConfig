@@ -1,0 +1,11 @@
+[user]
+	name = Martin Nowak
+	email = code@dawg.eu
+[merge]
+	conflictstyle = diff3
+[rerere]
+	enabled = true
+[branch]
+	autosetuprebase = always
+[push]
+	default = current
